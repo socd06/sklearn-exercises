@@ -6,8 +6,8 @@ Datasets needed for exercises. Clients, loans and payments are used in the first
 
 # notebooks
 Jupyter notebooks with exercises:
-- [Data Exploration and Visualization](https://github.com/socd06/sklearn-exercises/blob/master/data-exploration-and-visualization.ipynb)
-- [End-to-End Modeling with added noise](https://github.com/socd06/sklearn-exercises/blob/master/end-to-end-modeling-noise)
+- [Data Exploration and Visualization](https://github.com/socd06/sklearn-exercises/blob/master/notebooks/data-exploration-and-visualization.ipynb)
+- [End-to-End Modeling with added noise](https://github.com/socd06/sklearn-exercises/blob/master/notebooks/end-to-end-modeling-noise.ipynb)
 
 # License
 [MIT License](https://github.com/socd06/sklearn-exercises/blob/master/LICENSE)
